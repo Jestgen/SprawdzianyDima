@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "none",
+    "ignoreDeprecations": "6.0",
+    "strict": true,
+    "outDir": "./public",
+    "rootDir": "./src",
+    "noImplicitAny": true
+  },
+  "include": ["src"]
+}
